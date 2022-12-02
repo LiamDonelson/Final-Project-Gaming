@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "FinalProjectGaming"
+  "defaultProject": "FinalProjectGaming",
+  "cli": {
+    "analytics": false
+  }
 }
